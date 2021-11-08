@@ -7,3 +7,7 @@
 #Print the value of 'var_float'
  
 #Print the value of 'var_str'
+var=5
+var_float=float(var)
+var_string=str(var)
+print(var_float, var_string)

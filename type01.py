@@ -9,5 +9,6 @@
 #Print the value of 'var_str'
 var=5
 var_float=float(var)
-var_string=str(var)
-print(var_float, var_string)
+var_str=str(var)
+print(var_float)
+print(var_str)
